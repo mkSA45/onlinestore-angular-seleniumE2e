@@ -7,7 +7,7 @@ Major Files:
 
 ## Requirement 
 - Requires jhipster project created as per Chapter 3 of "Full Stack Development with Jhipster" (2nd Edition). 
-- No need Entity generation as per Chapter 4. 
+- No need Entity generation as per Chapter 4. No need to install docker in Chapter 2.
 - Jhipster version used: 6.10.3. 
 - The created jhipster project would have to be started with:
 
