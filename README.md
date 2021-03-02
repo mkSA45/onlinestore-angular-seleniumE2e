@@ -1,6 +1,9 @@
 # Selenium e2e test for app online store(angular)
 
 Rationale: Brief demo e2e test to ensure "admin" role can see "Administration" navbar option while "user" role should not see the option. The tests require the app to be started as per the "Requirement" section.
+Major Files:
+- EnsureCorrectUiForUserRolesLoginTest.java (tests for role)
+- SignInOutActionsExample.java (major support file for "EnsureCorrectUiForUserRolesLoginTest.java")
 
 ## Requirement 
 - Requires jhipster project created as per Chapter 3 of "Full Stack Development with Jhipster" (2nd Edition). 
